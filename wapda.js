@@ -1,1 +1,1 @@
-console.log("BBC <3")
+console.log("Git init")
